@@ -1,1 +1,30 @@
-
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #ffebf2;
+}
+.container {
+    margin-top: 50px;
+}
+.gif {
+    width: 200px;
+    height: auto;
+}
+.buttons {
+    margin-top: 20px;
+}
+button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
+#yes {
+    background-color: #ff66b2;
+    color: white;
+}
+#no {
+    background-color: #cccccc;
+}
