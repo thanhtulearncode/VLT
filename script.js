@@ -1,8 +1,8 @@
 const messages = [
-    "Ohh don't you love me?",
+    "Ohh don't you like me?",
     "Are you sure bbe?",
     "Think about it before u click!",
-    "Please bbe I love you so much.",
+    "Please bbe I like you so much.",
 ];
   
 const images = [
